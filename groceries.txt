@@ -1,4 +1,4 @@
-eggs
+eggs (x2)
 milk
 ice-cream
 bread
